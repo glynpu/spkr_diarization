@@ -1,0 +1,9 @@
+spro download page: https://gforge.inria.fr/projects/spro
+using spro-5.0
+
+audioseg download page:   https://gforge.inria.fr/frs/?group_id=533&release_id=4764#audioseg-_1.2-title-content
+problem: In make step when instaling audioseg1.2.1 or 1.2.2, always prompt with "undefined reference to `sin'". 
+solution: turn to 1.1.1 (in the very bottom of the download page)
+
+
+author of the above two toolit: http://www.irisa.fr/metiss/guig/#projects
